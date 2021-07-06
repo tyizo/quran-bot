@@ -1,0 +1,20 @@
+{
+  "name": "venoxmc-quran",
+  "version": "1.0.0",
+  "description": "a discord bot that plays holy quran. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tyizo",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "axios": "^0.21.1",
+    "discord-ytdl-core": "^5.0.4",
+    "discord.js": "^12.5.3",
+    "opusscript": "0.0.8",
+    "ytdl-core": "^4.8.3",
+    "ytdl-core-discord": "^1.3.1"
+  }
+}
